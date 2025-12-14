@@ -3,13 +3,14 @@
 <img width="1200" height="534" alt="1_jJZUmb5QdhWTiVcAmZ7GfA" src="https://github.com/user-attachments/assets/9dccc2fe-a7e9-4e19-8920-fe5cadfb2fba" />
 
 
-Introduction
+INTRODUCTION
+
 In the competitive landscape of the restaurant industry, data-driven decision-making has become paramount to success. This portfolio project presents an in-depth analysis of Fresh Food Restaurant’s operations for the year 2024, examining customer behavior, revenue patterns, and operational efficiency across five major restaurant chains: Subway, Pizza Hut, KFC, Burger King, and McDonald’s operating in Pakistan’s major cities.
 
 The analysis leverages a comprehensive dataset of 6,000 customer transactions spanning multiple dimensions including demographics, order patterns, payment preferences, delivery performance, and customer satisfaction metrics. This project demonstrates end-to-end data analytics cap abilities from data exploration to actionable business insights.
 
 
-The Data Story
+**The Data Story**
 
 The Setting:
 
