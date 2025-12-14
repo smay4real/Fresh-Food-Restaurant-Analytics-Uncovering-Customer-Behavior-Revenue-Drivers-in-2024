@@ -8,76 +8,128 @@ In the competitive landscape of the restaurant industry, data-driven decision-ma
 
 The analysis leverages a comprehensive dataset of 6,000 customer transactions spanning multiple dimensions including demographics, order patterns, payment preferences, delivery performance, and customer satisfaction metrics. This project demonstrates end-to-end data analytics cap abilities from data exploration to actionable business insights.
 
+
 The Data Story
+
 The Setting:
+
 Fresh Food Restaurant operates across five major Pakistani cities: Multan, Lahore, Peshawar, Islamabad, and Karachi, representing diverse demographic and cultural markets. With a portfolio of five renowned restaurant brands, the company serves a wide customer base ranging from teenagers to seniors.
 
 The Numbers That Matter
+
 Total Revenue Generated: $4.8 Million
+
 Customer Base: 6,000 unique customers
+
 Order Volume: 6,000 transactions
+
 Geographic Footprint: 5 major cities
+
 Restaurant Brands: 5 (Subway, Pizza Hut, KFC, Burger King, McDonald’s)
+
 Menu Diversity: 5 categories (Italian, Fast Food, Continental, Chinese, Dessert)
+
+
 The Challenge
+
 Despite impressive revenue figures, the business faces critical challenges:
 
 Alarming Churn Rate: 49.7% customer inactivity
+
 Delivery Concerns: Only 34.3% successful delivery rate
+
 Customer Satisfaction: Average rating of 3.01/5.0
+
 Missing Feedback: 32.8% of orders lack customer ratings
+
 These metrics paint a picture of a business at a crossroads, strong revenue potential tempered by operational and customer retention challenges.
+
+
 
 WHAT SUCCESS MEANS TO THE COMPANY
 
 What success means to this restaurant are High customer ratings on dishes and service, Strong sales across restaurants and food categories, Repeat orders and loyal customers with high points, Low churn rate (few customers leaving), Fast and reliable deliveries and Growth in new signups and order frequency over time.
 
+
 Objective of the Project
 Revenue Analysis: Identify top-performing restaurants, cities, and menu categories driving revenue
+
 Customer Behavior Profiling: Understand ordering patterns across demographics (age, gender, location)
+
 Operational Efficiency Assessment: Evaluate delivery performance and identify bottlenecks
+
 Churn Reduction Strategy: Analyze factors contributing to customer inactivity
+
 Customer Satisfaction Optimization: Investigate rating patterns and satisfaction drivers
+
+
+
 Methodology
+
 1. Data Collection & Understanding
+
 Approach: Comprehensive exploration of the dataset structure, dimensions, and business context
+
 
 Activities:
 
 Loaded Excel dataset containing 6,000 records with 20 features
+
 Identified primary entities: Customers, Orders, Restaurants, Menu Items
+
 Documented feature definitions and business rules
+
 Reviewed dashboard visualizations for business context
+
 Tools: Excel
 
+
 2. Data Cleaning & Preprocessing
+
 Approach: Systematic data quality assessment and transformation
+
 
 Activities:
 
 Missing Value Treatment:
+
 Analyzed 1,968 missing ratings (32.8%)
+
 Decision: Retain for delivered orders analysis, flag for follow-up
+
+
 Data Type Conversions:
 
 Convert date columns to datetime format
+
 Standardize categorical variables
+
 Ensure numeric fields are properly typed
+
+
 Outlier Detection:
 
 Validate price range ($100.30 — $1,499.95)
+
 Check order frequency distribution (1–50 orders)
+
 Identify anomalous rating dates (2025 entries)
+
+
 Data Standardization:
 
 Normalize city names
+
 Standardize category labels
+
 Consistent status classifications
+
 Tools: Excel.
 
  
 
 Data Splitting Strategy
+
 Given the nature of this dataset (cross-sectional snapshot rather than time series), traditional train-test splits for predictive modeling aren’t the primary focus. However, for various analytical purposes, here’s the proposed data segmentation:
 
 1.Category One: Independent Values
@@ -494,6 +546,9 @@ In restaurant business, consistency is the ultimate competitive advantage. Custo
  
 
 Project Completed: December 2025
+
 Analyst: Isau A. Shittu
+
 Portfolio Project: Fresh Food Restaurant Business Analytics
+
 Contact: Teejaypumpey@gmail.com
