@@ -1,0 +1,2 @@
+# Fresh-Food-Restaurant-Analytics-Uncovering-Customer-Behavior-Revenue-Drivers-in-2024
+The analysis leverages a comprehensive dataset of 6,000 customer transactions spanning multiple dimensions including demographics, order patterns, payment preferences, delivery performance, and customer satisfaction metrics. This project demonstrates end-to-end data analytics cap abilities from data exploration to actionable business insights.
